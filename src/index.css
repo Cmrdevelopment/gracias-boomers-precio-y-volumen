@@ -2,3 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: poppins, Arial, Helvetica, sans-serif; */
+}
+
+.LandingSaberMas_boton_quieres_saber_mas{
+    background-color: #08accc;;
+    padding: 16px;
+    margin-top: 36px;
+    transition: linear 0.2s;   
+    cursor: pointer;
+    width: 100%;   
+    line-height: 1.6;
+    font-weight: 450;
+    border: 0;
+}
+
+
