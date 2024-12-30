@@ -47,7 +47,7 @@ const GraciasWeb = () => {
         </div>
         <div className=" flex flex-col justify-center items-center font-semibold">
             <h2 className="text-xl text-center font-extrabold mt-3">¡Gracias por inscribirte en Boomers Precio y Volumen de Madrid 2024!</h2>
-            <p className="mt-9 ml-9 mr-9 text-justify sm:ml-96 sm:mr-96 text-neutral-500 font-bold" > El <span className="text-slate-700">evento Boomers Madrid Febrero 2024</span> podrás disfurtas de <span className="text-slate-700">4 talleres por parte de los boomers</span> y el mercado en vivo y en real, pero no solo será talleres de formación y ver el mercado en real el lunes sino que podremos <span className="text-slate-700">disfrutar de un fin de semana</span> con muchos <span className="text-slate-700">compañeros, profes y amigos</span> donde podremos charlar y compartir <span className="text-slate-700">nuestra pasión y dedicación.</span></p>
+            <p className="mt-9 ml-9 mr-9 text-justify sm:ml-96 sm:mr-96 text-neutral-500 font-bold" > El <span className="text-slate-700">evento Boomers Madrid Marzo 2025</span> podrás disfurtas de <span className="text-slate-700">4 talleres por parte de los boomers</span> y el mercado en vivo y en real, pero no solo será talleres de formación y ver el mercado en real el lunes sino que podremos <span className="text-slate-700">disfrutar de un fin de semana</span> con muchos <span className="text-slate-700">compañeros, profes y amigos</span> donde podremos charlar y compartir <span className="text-slate-700">nuestra pasión y dedicación.</span></p>
         </div>      
 
         <div className="LandingSaberMas_quieres_saber_mas ">
