@@ -33,7 +33,7 @@ const GraciasWeb = () => {
           <img className="w-36 h-12 object-contain" src="https://res.cloudinary.com/dwbxywvdw/image/upload/v1701727670/Boomers/Logo_Jordi_Trading_180_x_40_mxefav.png" alt="logo Jordi" />
           </div>
           <div className="flex flex-col items-center m-5">
-          <img className="w-48 object-contain" src="https://res.cloudinary.com/dwbxywvdw/image/upload/v1738666289/Boomers/Foto_cmrbolsa_redonda_boomers_b1mtob.png" alt="foto Cmrbolsa" />
+          <img className="w-48 object-contain" src="https://res.cloudinary.com/dwbxywvdw/image/upload/v1738666404/Boomers/Foto_cmrbolsa_redonda_boomers-2_lcexr0.png" alt="foto Cmrbolsa" />
           <img className="w-36 h-12 object-contain" src="https://res.cloudinary.com/dwbxywvdw/image/upload/v1701727730/Boomers/Logo_a_modificar-removebg-preview_kjo5ld.png" alt="logo cmrbolsa" />
           </div>
           <div className="flex flex-col items-center m-5">
